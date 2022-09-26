@@ -1,5 +1,5 @@
 {
-  "name": "sit725-2022-t2-prac4",
+  "name": "sit725-2022-t2-prac3",
   "version": "1.0.0",
   "description": "Task P3",
   "main": "scripts.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MohitJurani/sit725-2022-t2-prac4.git"
+    "url": "git+https://github.com/MohitJurani/SIT725-2022-T2-prac3.git"
   },
   "author": "Mohit Jurani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MohitJurani/sit725-2022-t2-prac4/issues"
+    "url": "https://github.com/MohitJurani/SIT725-2022-T2-prac3/issues"
   },
-  "homepage": "https://github.com/MohitJurani/sit725-2022-t2-prac4#readme",
+  "homepage": "https://github.com/MohitJurani/SIT725-2022-T2-prac3#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
